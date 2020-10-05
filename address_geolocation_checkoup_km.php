@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name:  Geolocation Address Field Checkoup
-Plugin URI:
+Plugin URI:   https://creatives.com.co/
 Description:  This component is responsible for giving the address for the calculation of shipping in km.
 Version:      1.0
 Author:       David Fernando Valenzuela Pardo
-Author URI:   https://creatives.com.co/
+Author URI:   https://github.com/valenzuela21/
 License:      GPL2
 License URI:  https://creatives.com.co/
 Text Domain:  geolocation-km
